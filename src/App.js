@@ -36,7 +36,7 @@ class App extends Component {
       <div className="App" >
         <header className="App-header" >
           <img src={logo} className="App-logo" alt="logo" />
-          <h1>TEMPLATE-TEMPLAR</h1>
+          <h1>TEMPLATE-TEMPLAR R</h1>
           <p><hr/> Haz que tu proyecto de el siguiente paso!</p>
           {
             this.state.isSignedIn ? (
